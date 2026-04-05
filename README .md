@@ -9,8 +9,3 @@ UML Class Diagram
 ![UML Class Diagram](uml-class-diagram.png)
 
 
-
-How to Run
-
-bash
-node src/index.js
